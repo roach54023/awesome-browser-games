@@ -64,6 +64,10 @@ Puzzle, logic, and strategy games — school-safe.
 **[https://mathplayground.com](https://mathplayground.com)**
 Educational and logic browser games for all ages.
 
+### Sudoku a Day
+**[https://sudokuaday.com](https://sudokuaday.com)**
+Daily sudoku puzzles in your browser — multiple difficulty levels, free, no sign-up needed.
+
 ---
 
 ## Unblocked Game Hubs
