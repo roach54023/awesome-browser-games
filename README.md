@@ -64,6 +64,10 @@ Puzzle, logic, and strategy games — school-safe.
 **[https://mathplayground.com](https://mathplayground.com)**
 Educational and logic browser games for all ages.
 
+### Meccha Chameleon Art
+**[https://mecchachameleon.art](https://mecchachameleon.art)**
+Browser-playable hide-and-seek camouflage game with fan-made map breakdowns, routes, and beginner guides.
+
 ---
 
 ## Unblocked Game Hubs
