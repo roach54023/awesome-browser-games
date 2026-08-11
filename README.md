@@ -63,6 +63,9 @@ Puzzle, logic, and strategy games — school-safe.
 ### Math Playground
 **[https://mathplayground.com](https://mathplayground.com)**
 Educational and logic browser games for all ages.
+### WordleLike
+**[https://wordlelike.com](https://wordlelike.com)**
+Free hub of 5 daily Wordle-style games — Wordle, Word Hurdle, Mini Crossword, Word Search and Anagram. Fresh AI-generated puzzles every 24h, no sign-up.
 
 ---
 
