@@ -17,17 +17,6 @@
 
 ### 🐒 Monkey Mart Hub
 **[https://monkeymarthub.com](https://monkeymarthub.com)**
-
-The best place to play Monkey Mart unblocked in your browser. Run your own supermarket with your monkey character — harvest crops, stock shelves, and serve customers. No download required.
-
-- 🎮 [Play Monkey Mart](https://monkeymarthub.com) — Full game, free, no ads blocking gameplay
-- 🔓 [Monkey Mart Unblocked](https://monkeymarthub.com/monkey-mart-unblocked) — Works on school/work networks
-- 🆕 [Monkey Mart 2](https://monkeymarthub.com/monkey-mart-2) — Sequel with new sections and mechanics
-- 📖 [How to Play Guide](https://monkeymarthub.com/how-to-play-monkey-mart) — Complete beginner guide
-- 💡 [Tips & Tricks](https://monkeymarthub.com/monkey-mart-tips) — Advanced strategies
-
-> **Why Monkey Mart?** It's one of the most addictive idle/management games available in browser. You grow food, stock shelves, hire helper monkeys, and expand your supermarket — all in real time.
-
 ---
 
 ## Arcade & Action
@@ -64,6 +53,10 @@ Puzzle, logic, and strategy games — school-safe.
 **[https://mathplayground.com](https://mathplayground.com)**
 Educational and logic browser games for all ages.
 
+### Play Meowdoku
+**[https://playmeowdoku.com](https://playmeowdoku.com)**
+Free browser cat logic puzzle — place one cat per region with no shared row/column and no diagonal touch.
+
 ---
 
 ## Unblocked Game Hubs
@@ -85,11 +78,22 @@ Sites that work even on restricted school/work networks:
 Found a great browser game site? Open a PR!
 
 1. Check the site actually works and loads fast
-2. Add it under the right category
-3. Include: Name, URL, and a one-line description
+2.  Add it under the right category
+3.   Include: Name, URL, and a one-line description
 
 ---
 
 ## License
 
 MIT
+
+The best place to play Monkey Mart unblocked in your browser. Run your own supermarket with your monkey character — harvest crops, stock shelves, and serve customers. No download required.
+
+- 🎮 [Play Monkey Mart](https://monkeymarthub.com) — Full game, free, no ads blocking gameplay
+- 🔓 [Monkey Mart Unblocked](https://monkeymarthub.com/monkey-mart-unblocked) — Works on school/work networks
+- 🆕 [Monkey Mart 2](https://monkeymarthub.com/monkey-mart-2) — Sequel with new sections and mechanics
+- 📖 [How to Play Guide](https://monkeymarthub.com/how-to-play-monkey-mart) — Complete beginner guide
+- 💡 [Tips & Tricks](https://monkeymarthub.com/monkey-mart-tips) — Advanced strategies
+
+> **Why Monkey Mart?** It's one of the most addictive idle/management games available in browser. You grow food, stock shelves, hire helper monkeys, and expand your supermarket — all in real time.
+
