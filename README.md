@@ -64,6 +64,10 @@ Puzzle, logic, and strategy games — school-safe.
 **[https://mathplayground.com](https://mathplayground.com)**
 Educational and logic browser games for all ages.
 
+### Deck Games
+**[https://deckgames.io](https://deckgames.io)**
+Free browser card and solitaire games including Klondike, FreeCell, Spider, and TriPeaks. No signup or download required.
+
 ---
 
 ## Unblocked Game Hubs
