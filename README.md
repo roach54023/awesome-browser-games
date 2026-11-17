@@ -64,6 +64,10 @@ Puzzle, logic, and strategy games — school-safe.
 **[https://mathplayground.com](https://mathplayground.com)**
 Educational and logic browser games for all ages.
 
+### Elunvi Games
+**[https://elunvi.fun/](https://elunvi.fun/)**
+Play touch-friendly number puzzles and tower defense, with controls and supported devices shown before play.
+
 ---
 
 ## Unblocked Game Hubs
