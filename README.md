@@ -64,6 +64,10 @@ Puzzle, logic, and strategy games — school-safe.
 **[https://mathplayground.com](https://mathplayground.com)**
 Educational and logic browser games for all ages.
 
+### Crowd Pick
+**[https://noillirk.best/#practice](https://noillirk.best/#practice)**
+Free, single-player browser trivia in which players try to match popular answers and see how each guess ranks.
+
 ---
 
 ## Unblocked Game Hubs
