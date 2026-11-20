@@ -64,6 +64,10 @@ Puzzle, logic, and strategy games — school-safe.
 **[https://mathplayground.com](https://mathplayground.com)**
 Educational and logic browser games for all ages.
 
+### Best Daily Games: coffee-break puzzles
+**[bestdaily.games coffee-break collection](https://bestdaily.games/collections/coffee-break-games/)**
+A curated selection of short daily browser puzzles, with links to the original games and guidance on which ones need sound.
+
 ---
 
 ## Unblocked Game Hubs
